@@ -1,0 +1,5 @@
+test\Application.class
+test\com\controller\WsController.class
+test\com\bean\WiselyMessage.class
+test\com\config\WebSocketConfig.class
+test\com\bean\WiselyResponse.class
